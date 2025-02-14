@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "E36069F0-D365-4FBE-A367-AA4A0244FDA3",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Info7410App.xcodeproj",
+      "identifier" : "A5776BA12663A28700A36BA5",
+      "name" : "Info7410App"
+    }
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "Info7410AppTests",
+        "Info7410AppTests\/testExample()",
+        "Info7410AppTests\/testPerformanceExample()"
+      ],
+      "target" : {
+        "containerPath" : "container:Info7410App.xcodeproj",
+        "identifier" : "A5776BB22663A28800A36BA5",
+        "name" : "Info7410AppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
